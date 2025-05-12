@@ -1,0 +1,6 @@
+link dataset punto 2:
+https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014
+
+link gitlab:
+Montaño Pacaja Leonardo Miguel Ing Sistemas (oyente)
+https://gitlab.com/ia761409/sis420.git
