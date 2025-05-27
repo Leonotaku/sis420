@@ -1,0 +1,5 @@
+Préstamos Emitidos por Club
+https://www.kaggle.com/datasets/husainsb/lendingclub-issued-loans/data
+
+Conjunto de datos del Censo de Adultos
+https://www.kaggle.com/datasets/hemanthpingali/adult-census-dataset
